@@ -4,7 +4,7 @@ namespace RiotControl
 {
 	class Program
 	{
-		static string ConfigurationPath = "Configuration.xml";
+		static string ConfigurationPath = "../Configuration/Configuration.xml";
 
 		static void Main(string[] arguments)
 		{
